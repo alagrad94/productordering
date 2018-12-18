@@ -1,8 +1,15 @@
-// build product object list with product id, product name, product image, product description
+import productData from "./productData"
 
-product = {
-    "productTitle" : "",
-    "productImage" : "",
-    "productDescription" : "",
-    "productID" : ""
-}
+
+// product = {
+//     "productTitle" : "",
+//     "productImage" : "",
+//     "productDescription" : "",
+//     "productID" : ""
+// }
+
+//  review =  {
+//     "reviewTitle" : "",
+//     "reviewData" : "",
+//     "productId" : ""
+// }
