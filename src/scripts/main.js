@@ -1,7 +1,8 @@
 import navbar from "./nav"
-import productData from "./productData"
+import productList from "./productList"
 
 navbar.buildNavbar();
-productData.getProductData();
+productList.createProductList();
+
 
 //call function to add final product HTML to DOM

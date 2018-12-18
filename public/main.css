@@ -1,3 +1,8 @@
 .navItem {
     padding: 2px;
 }
+
+#img {
+    width: 100%;
+    padding: 10px;
+}
